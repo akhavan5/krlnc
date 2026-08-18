@@ -1,0 +1,6 @@
+{
+  "name": "تست شخصیت شناسی MBTI",
+  "description": "سامانه جامع و پیشرفته تست شخصیت شناسی MBTI با ۲۸ سوال تخصصی، تحلیل ۴ بعد شخصیتی، گزارش کامل تیپ‌های ۱۶ گانه و امکان ذخیره نتایج",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
